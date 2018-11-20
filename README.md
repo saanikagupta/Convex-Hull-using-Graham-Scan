@@ -18,5 +18,5 @@ Implementation of the Graham algorithm for finding a convex hull
 ![conhull](https://user-images.githubusercontent.com/33591235/48665864-5552e200-eadc-11e8-9bdd-60f426451c50.png)
 
 **Convex Hull**
-![convexhull](https://user-images.githubusercontent.com/33591235/48665916-5f291500-eadd-11e8-835f-5e05e91f211c.png)
+![convexhull](https://user-images.githubusercontent.com/33591235/48757848-167f8080-ecc4-11e8-900f-d7d3690e04fd.png)
 
